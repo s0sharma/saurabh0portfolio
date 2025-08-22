@@ -28,11 +28,11 @@ const EducationSection = () => {
                     <div className="p-4 bg-primary/10 rounded-xl">
                       <GraduationCap className="w-8 h-8 text-primary" />
                     </div>
-                    <div>
-                      <h3 className="text-2xl font-bold text-foreground">Integrated M.Tech</h3>
-                      <p className="text-xl text-primary font-semibold">Computer Science (AI & ML)</p>
-                      <p className="text-muted-foreground">5-Year Integrated Program</p>
-                    </div>
+                  <div>
+                    <h3 className="text-2xl font-bold text-foreground">Dual Degree Program</h3>
+                    <p className="text-xl text-primary font-semibold">B.Tech + M.Tech CSE (AI & ML)</p>
+                    <p className="text-muted-foreground">2019-2024</p>
+                  </div>
                   </div>
                   
                   <div className="text-right">
@@ -46,8 +46,8 @@ const EducationSection = () => {
                 {/* Program Overview */}
                 <div className="space-y-6">
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    Pursuing a comprehensive 5-year integrated program that combines undergraduate 
-                    and postgraduate studies in Computer Science with specialized focus on 
+                    Completed a comprehensive dual degree program combining Bachelor's and Master's 
+                    in Computer Science and Engineering with specialized focus on 
                     <span className="text-primary font-semibold"> Artificial Intelligence</span> and 
                     <span className="text-primary font-semibold"> Machine Learning</span>.
                   </p>
@@ -129,7 +129,7 @@ const EducationSection = () => {
                         <span className="text-primary font-bold text-lg">5</span>
                       </div>
                       <p className="font-medium text-foreground">Years</p>
-                      <p className="text-sm text-muted-foreground">Comprehensive curriculum</p>
+                      <p className="text-sm text-muted-foreground">2019-2024</p>
                     </div>
                     <div className="text-center space-y-2">
                       <div className="w-12 h-12 bg-secondary/10 rounded-full flex items-center justify-center mx-auto">

@@ -44,34 +44,6 @@ const ProjectsSection = () => {
       ],
       color: 'border-warning/50 hover:border-warning',
       gradient: 'from-warning/10 to-warning/5'
-    },
-    {
-      title: 'Rate Limiting Service',
-      description: 'Distributed rate limiting service with multiple algorithms, Redis backend, and flexible configuration for API protection and traffic management.',
-      icon: Shield,
-      technologies: ['FastAPI', 'Redis', 'Docker', 'Nginx'],
-      features: [
-        'Multiple rate limit algorithms',
-        'Distributed architecture',
-        'Real-time monitoring',
-        'Flexible configuration'
-      ],
-      color: 'border-success/50 hover:border-success',
-      gradient: 'from-success/10 to-success/5'
-    },
-    {
-      title: 'Job Application Tracker',
-      description: 'Complete job application management system with application tracking, interview scheduling, and progress analytics to streamline the job search process.',
-      icon: Zap,
-      technologies: ['Django', 'PostgreSQL', 'Celery', 'Redis'],
-      features: [
-        'Application tracking',
-        'Interview scheduling',
-        'Progress analytics',
-        'Email notifications'
-      ],
-      color: 'border-primary/50 hover:border-primary',
-      gradient: 'from-primary/10 to-primary/5'
     }
   ];
 
